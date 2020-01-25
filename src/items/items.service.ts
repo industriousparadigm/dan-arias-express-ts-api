@@ -24,6 +24,14 @@ const items: Items = {
     price: 1.99,
     description: 'Informative',
     image: 'https://cdn.auth0.com/blog/whatabyte/tea-sm.png'
+  },
+  4: {
+    id: 4,
+    name: 'Peach',
+    price: 3.99,
+    description: 'Juicy',
+    image:
+      'https://www.thespruceeats.com/thmb/0GVHWd0vSz0bBAxAAr3AJi9qYMo=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yellow-Peaches-576cd8bc5f9b585875fdb6e9.jpg'
   }
 }
 
